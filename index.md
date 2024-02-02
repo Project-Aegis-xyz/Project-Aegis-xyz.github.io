@@ -2,7 +2,7 @@
 
 ![App Logo](https://aburra.xyz/android-chrome-192x192.png)
 
-Aburra (fka Alphacaster) is building a global-scale social network with shared economics, starting with web3 live audio. You can view some of the recent audio spaces [here](https://aburra.xyz/).
+Aburra (fka Alphacaster) is building a social trading app for memecoins and NFTs, starting with web3 live audio. You can view some of the recent audio spaces [here](https://aburra.xyz/).
 
 Mobile is available on iOS TestFlight and Android. [Message us](https://t.me/thebillzh) to get early access. 
 
